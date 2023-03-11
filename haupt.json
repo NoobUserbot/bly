@@ -1,0 +1,2617 @@
+{
+    "1353219452": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "19:08:13, 15.01.2077",
+        "banned": false,
+        "port": "48565",
+        "installed": true,
+        "endwarned": true,
+        "server_id": 0
+    },
+    "5142149080": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "19:48:59, 19.01.2023",
+        "banned": false,
+        "port": "49147",
+        "installed": false,
+        "server_id": 0,
+        "endwarned": true
+    },
+    "936462593": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "09:15:52, 04.05.2023",
+        "banned": false,
+        "port": "49015",
+        "installed": true,
+        "server_id": 0
+    },
+    "1868041166": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "18:11:32, 18.06.2023",
+        "banned": false,
+        "port": "48977",
+        "installed": true,
+        "server_id": 0
+    },
+    "1832435352": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "18:12:58, 30.04.2023",
+        "banned": false,
+        "port": "49038",
+        "installed": true,
+        "server_id": 0
+    },
+    "5888342131": {
+        "lang": "uk",
+        "activated": true,
+        "datumbis": "18:23:16, 01.03.2023",
+        "banned": false,
+        "port": "49102",
+        "installed": true,
+        "server_id": 0
+    },
+    "1286103232": {
+        "lang": "tt",
+        "activated": true,
+        "datumbis": "05:53:08, 27.02.2024",
+        "banned": false,
+        "port": "49036",
+        "installed": true,
+        "server_id": 0
+    },
+    "5897223090": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "14:02:35, 03.03.2023",
+        "banned": false,
+        "port": "49117",
+        "installed": true,
+        "server_id": 0
+    },
+    "1436393559": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:26:36, 27.02.2024",
+        "banned": false,
+        "port": "49085",
+        "installed": true,
+        "server_id": 0
+    },
+    "5724501684": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "13:46:46, 05.02.2023",
+        "banned": false,
+        "port": "49076",
+        "installed": true,
+        "server_id": 0
+    },
+    "5043528368": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "15:38:32, 08.02.2023",
+        "banned": false,
+        "port": "49027",
+        "installed": true,
+        "server_id": 0
+    },
+    "5798715596": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "12:58:07, 18.02.2023",
+        "banned": false,
+        "port": "48796",
+        "installed": true,
+        "server_id": 0,
+        "endwarned": true
+    },
+    "839822630": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:41:27, 16.08.2023",
+        "banned": false,
+        "port": "49122",
+        "installed": true,
+        "server_id": 0
+    },
+    "5119883344": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:07:56, 08.02.2023",
+        "banned": false,
+        "port": "48909",
+        "installed": true,
+        "server_id": 0
+    },
+    "1682854205": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "15:15:07, 19.02.2023",
+        "banned": false,
+        "port": "49054",
+        "installed": true,
+        "server_id": 0,
+        "endwarned": true
+    },
+    "1128142884": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "08:13:31, 21.04.2023",
+        "banned": false,
+        "port": "48798",
+        "installed": true,
+        "server_id": 0
+    },
+    "1254069556": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "15:54:34, 23.04.2023",
+        "banned": false,
+        "port": "49025",
+        "installed": true,
+        "server_id": 0
+    },
+    "5729298169": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "11:41:29, 26.04.2023",
+        "banned": false,
+        "port": "49087",
+        "installed": true,
+        "server_id": 0
+    },
+    "1750633727": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "16:03:34, 01.02.2023",
+        "banned": false,
+        "port": "49054",
+        "installed": true,
+        "server_id": 0
+    },
+    "979175816": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "16:22:24, 04.02.2023",
+        "banned": false,
+        "port": "49049",
+        "installed": true,
+        "server_id": 0
+    },
+    "5170426825": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "10:02:04, 21.05.2023",
+        "banned": false,
+        "port": "49003",
+        "installed": false,
+        "server_id": 0
+    },
+    "1302967944": {
+        "lang": "en",
+        "activated": true,
+        "datumbis": "23:29:36, 11.06.2023",
+        "banned": false,
+        "port": "49028",
+        "endwarned": false,
+        "installed": true,
+        "server_id": 0
+    },
+    "777483849": {
+        "lang": "en",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false,
+        "server_id": 0
+    },
+    "5396560906": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "21:48:41, 25.02.2023",
+        "banned": false,
+        "port": "48967",
+        "installed": true,
+        "server_id": 0
+    },
+    "987864113": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "19:27:51, 08.04.2023",
+        "banned": false,
+        "port": "49116",
+        "installed": true,
+        "server_id": 0
+    },
+    "1611148897": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false,
+        "server_id": 0
+    },
+    "1606370786": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:12:53, 12.02.2023",
+        "banned": false,
+        "port": "49017",
+        "installed": true,
+        "server_id": 0
+    },
+    "5119666405": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false,
+        "server_id": 0
+    },
+    "1680843629": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false,
+        "server_id": 0
+    },
+    "1919230638": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false,
+        "server_id": 0
+    },
+    "320029178": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false,
+        "server_id": 0
+    },
+    "5646634936": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "03:16:29, 04.02.2023",
+        "banned": false,
+        "port": "48556",
+        "installed": true,
+        "server_id": 0
+    },
+    "701411696": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5948511314": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5064350986": {
+        "lang": "uk",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "810587766": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "20:09:54, 17.03.2023",
+        "banned": false,
+        "port": "49066",
+        "installed": true,
+        "server_id": 0
+    },
+    "1187330797": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5400981174": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5684327741": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "804626895": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1486700310": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1069381601": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1348568031": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5534079562": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "12:38:29, 13.02.2023",
+        "banned": false,
+        "port": "49063",
+        "installed": true,
+        "server_id": 0
+    },
+    "5188252632": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "10:44:47, 11.02.2023",
+        "banned": false,
+        "port": "48564",
+        "installed": true,
+        "server_id": 0
+    },
+    "5952271797": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "20:15:10, 07.02.2023",
+        "banned": false,
+        "port": "49026",
+        "installed": true,
+        "server_id": 0
+    },
+    "5896584037": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "18:18:02, 21.02.2023",
+        "banned": false,
+        "port": "48341",
+        "installed": true
+    },
+    "5339887057": {
+        "lang": "uk",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1408584806": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:35:45, 04.02.2023",
+        "banned": false,
+        "port": "48033",
+        "installed": true,
+        "server_id": 0
+    },
+    "1826180124": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5487338679": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5430572566": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:19:55, 26.02.2023",
+        "banned": false,
+        "port": "49114",
+        "installed": true
+    },
+    "5555702890": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1067600228": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5719242845": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5760243706": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "737844465": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "23:52:37, 07.03.2023",
+        "banned": false,
+        "port": "48439",
+        "installed": true,
+        "server_id": 0
+    },
+    "742333517": {
+        "lang": "uz",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "2003573597": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "19:52:59, 03.02.2023",
+        "banned": false,
+        "port": "48720",
+        "installed": true,
+        "server_id": 0
+    },
+    "1047309081": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "07:17:01, 21.03.2023",
+        "banned": false,
+        "port": "48820",
+        "installed": true
+    },
+    "5696302007": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "20:13:50, 03.02.2023",
+        "banned": false,
+        "port": "49095",
+        "installed": true,
+        "server_id": 0
+    },
+    "868535514": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "19:45:20, 26.02.2023",
+        "banned": false,
+        "port": "48138",
+        "installed": true
+    },
+    "1690518412": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5638684320": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "921824207": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "21:19:05, 05.02.2023",
+        "banned": false,
+        "port": "48061",
+        "installed": true,
+        "server_id": 0
+    },
+    "5174486543": {
+        "lang": "en",
+        "activated": true,
+        "datumbis": "20:12:21, 18.02.2023",
+        "banned": false,
+        "port": "48121",
+        "installed": true
+    },
+    "5734778507": {
+        "lang": "en",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1705040643": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:00:17, 04.02.2023",
+        "banned": false,
+        "port": "48729",
+        "installed": true,
+        "server_id": 0
+    },
+    "1794886035": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "252130487": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "20:52:54, 05.04.2023",
+        "banned": false,
+        "port": "49112",
+        "installed": true,
+        "server_id": 0
+    },
+    "5981999513": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1249202547": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1388744366": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5888079601": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "05:34:28, 10.02.2023",
+        "banned": false,
+        "port": "48153",
+        "installed": true,
+        "server_id": 0
+    },
+    "5602778747": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "16:14:32, 02.10.2023",
+        "banned": false,
+        "port": "48803",
+        "installed": true,
+        "server_id": 0
+    },
+    "1158124396": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "16:17:39, 10.05.2023",
+        "banned": false,
+        "port": "49011",
+        "installed": true,
+        "server_id": 0
+    },
+    "5601359243": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5885337024": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "18:45:28, 18.02.2023",
+        "banned": false,
+        "port": "48271",
+        "installed": true
+    },
+    "5608611653": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:47:13, 07.04.2023",
+        "banned": false,
+        "port": "49060",
+        "installed": true,
+        "server_id": 0
+    },
+    "5527390685": {
+        "lang": "uk",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "2026042217": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1903467764": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5292463343": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5895639386": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "19:35:24, 07.02.2023",
+        "banned": false,
+        "port": "49037",
+        "installed": true,
+        "server_id": 0
+    },
+    "1634554060": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "19:38:09, 07.02.2023",
+        "banned": false,
+        "port": "49019",
+        "installed": true,
+        "server_id": 0
+    },
+    "5795696311": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "655437653": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "20:18:00, 07.02.2023",
+        "banned": false,
+        "port": "49088",
+        "installed": true,
+        "server_id": 0
+    },
+    "475841915": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "21:16:00, 07.02.2023",
+        "banned": false,
+        "port": "48896",
+        "installed": true,
+        "server_id": 0
+    },
+    "5641863745": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5457266527": {
+        "lang": "en",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5745077953": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "23:15:31, 07.02.2023",
+        "banned": false,
+        "port": "48722",
+        "installed": true,
+        "server_id": 0
+    },
+    "1583476919": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "00:05:03, 10.03.2023",
+        "banned": false,
+        "port": "48538",
+        "installed": true,
+        "server_id": 0
+    },
+    "5847826831": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1484386024": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5441137403": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "15:51:48, 09.04.2023",
+        "banned": false,
+        "port": "49130",
+        "installed": true,
+        "server_id": 0
+    },
+    "5551959176": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5979555318": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1759335183": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "609497361": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "23:20:15, 08.02.2023",
+        "banned": false,
+        "port": "48772",
+        "installed": true,
+        "server_id": 0
+    },
+    "5946122137": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1218845111": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5810909647": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5583711379": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1142678285": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "16:12:43, 11.03.2023",
+        "banned": false,
+        "port": "49118",
+        "installed": true,
+        "server_id": 0
+    },
+    "1884410767": {
+        "lang": "de",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5846943538": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5723673084": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5704658091": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:32:59, 09.02.2023",
+        "banned": false,
+        "port": "49021",
+        "installed": true,
+        "server_id": 0
+    },
+    "5086514623": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:51:04, 09.02.2023",
+        "banned": false,
+        "port": "48687",
+        "installed": false
+    },
+    "5652092563": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5176599067": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "21:40:11, 10.05.2023",
+        "banned": false,
+        "port": "48240",
+        "installed": true,
+        "server_id": 0
+    },
+    "5955190937": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "19:03:34, 10.05.2023",
+        "banned": false,
+        "port": "48516",
+        "installed": true,
+        "server_id": 0
+    },
+    "5225606321": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1785802405": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "19:29:47, 20.02.2023",
+        "banned": false,
+        "port": "48545",
+        "installed": true
+    },
+    "5065227134": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "00:16:40, 12.03.2023",
+        "banned": false,
+        "port": "48313",
+        "installed": true,
+        "server_id": 0
+    },
+    "1863557714": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "21:25:38, 20.04.2023",
+        "banned": false,
+        "port": "48186",
+        "installed": true
+    },
+    "1076969612": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "18:39:35, 11.05.2023",
+        "banned": false,
+        "port": "48730",
+        "installed": true,
+        "server_id": 0
+    },
+    "1029101859": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5702051198": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "11:39:39, 20.02.2023",
+        "banned": false,
+        "port": "48613",
+        "installed": true
+    },
+    "1827648787": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1215001756": {
+        "lang": "en",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1194325722": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1130975051": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "18:28:56, 11.02.2023",
+        "banned": false,
+        "port": "49150",
+        "installed": true,
+        "server_id": 0
+    },
+    "475982839": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5766893782": {
+        "lang": "en",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5195118663": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "06:56:14, 13.03.2023",
+        "banned": false,
+        "port": "49078",
+        "installed": true,
+        "server_id": 0
+    },
+    "5059828913": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "12:45:57, 11.02.2023",
+        "banned": false,
+        "port": "48855",
+        "installed": true,
+        "server_id": 0
+    },
+    "5394249008": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1476500189": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "21:34:31, 11.02.2023",
+        "banned": false,
+        "port": "48700",
+        "installed": true,
+        "server_id": 0
+    },
+    "928211190": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "22:14:11, 13.03.2023",
+        "banned": false,
+        "port": "48438",
+        "installed": true,
+        "server_id": 0
+    },
+    "5289640317": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5714798540": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "05:31:22, 12.02.2023",
+        "banned": false,
+        "port": "48263",
+        "installed": true,
+        "server_id": 0
+    },
+    "1631792965": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5079220175": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5455729895": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "13:10:59, 13.05.2023",
+        "banned": true,
+        "port": "49043",
+        "installed": true,
+        "server_id": 0
+    },
+    "659800858": {
+        "lang": "en",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1938066989": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "11:00:33, 13.02.2023",
+        "banned": false,
+        "port": "48994",
+        "installed": true,
+        "server_id": 0
+    },
+    "5423817084": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1632963930": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "11:21:45, 18.03.2023",
+        "banned": false,
+        "port": "48530",
+        "installed": true
+    },
+    "5333160510": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "845737837": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "676121571": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "02:44:59, 15.03.2023",
+        "banned": false,
+        "port": "48002",
+        "installed": true,
+        "server_id": 0
+    },
+    "5938250522": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "12:43:32, 26.02.2023",
+        "banned": false,
+        "port": "48666",
+        "installed": true
+    },
+    "1136019179": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1019468688": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5827099909": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5098422332": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "15:13:02, 13.02.2023",
+        "banned": false,
+        "port": "48727",
+        "installed": true,
+        "server_id": 0
+    },
+    "5768354171": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "14:12:29, 13.02.2023",
+        "banned": false,
+        "port": "48085",
+        "installed": true,
+        "server_id": 0
+    },
+    "5851357418": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5958148997": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5299696814": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1741272353": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "23:53:44, 15.03.2023",
+        "banned": false,
+        "port": "48990",
+        "installed": true,
+        "server_id": 0
+    },
+    "5021623272": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5723927570": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5486826977": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1269326177": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5555308005": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "14:05:25, 14.02.2023",
+        "banned": false,
+        "port": "49158",
+        "installed": false
+    },
+    "5579029303": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5900523113": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1214663167": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1745259938": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5759507989": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "21:21:54, 14.02.2023",
+        "banned": false,
+        "port": "48881",
+        "installed": true
+    },
+    "1154366711": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "478245323": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1869880214": {
+        "lang": "uz",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5975246477": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1015903457": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1449153997": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "09:30:33, 15.02.2023",
+        "banned": false,
+        "port": "48177",
+        "installed": true
+    },
+    "955396492": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1968156672": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5072334136": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "19:20:25, 15.02.2023",
+        "banned": false,
+        "port": "48489",
+        "installed": true
+    },
+    "5078912768": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1768375766": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "21:00:03, 15.02.2023",
+        "banned": false,
+        "port": "48226",
+        "installed": true
+    },
+    "761058203": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5552836176": {
+        "lang": "uk",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5121300540": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5400134131": {
+        "lang": "uz",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "79616282": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5490144491": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "20:48:42, 17.02.2023",
+        "banned": false,
+        "port": "48296",
+        "installed": true
+    },
+    "1208503478": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "13:33:00, 16.02.2023",
+        "banned": false,
+        "port": "48621",
+        "installed": true
+    },
+    "1821229666": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5795668214": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "2071610092": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "21:48:39, 26.05.2023",
+        "banned": false,
+        "port": "48554",
+        "installed": true
+    },
+    "1246101198": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1991406021": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "15:08:56, 16.02.2023",
+        "banned": false,
+        "port": "48609",
+        "installed": true
+    },
+    "1729929429": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5065153064": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "16:46:26, 16.02.2023",
+        "banned": false,
+        "port": "48086",
+        "installed": true
+    },
+    "1060454032": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "996318652": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5130435709": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5377623600": {
+        "lang": "en",
+        "activated": true,
+        "datumbis": "19:21:03, 01.02.2023",
+        "banned": false,
+        "port": "48256",
+        "installed": true
+    },
+    "5203469185": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5692764538": {
+        "lang": "en",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "2047488324": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "834811667": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1221419333": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "03:52:01, 26.02.2023",
+        "banned": false,
+        "port": "48539",
+        "installed": true
+    },
+    "5209873689": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "933749379": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5620752485": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5788384948": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1030467075": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "15:20:11, 18.02.2023",
+        "banned": false,
+        "port": "48272",
+        "installed": false
+    },
+    "5698511421": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1187748108": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5468121587": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:23:48, 17.02.2023",
+        "banned": false,
+        "port": "48223",
+        "installed": true
+    },
+    "5495226863": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:07:44, 19.03.2023",
+        "banned": false,
+        "port": "48444",
+        "installed": true
+    },
+    "1938958036": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1806169479": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5909130108": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1276912143": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5899692928": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:45:18, 18.04.2023",
+        "banned": false,
+        "port": "48813",
+        "installed": true
+    },
+    "5750610724": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "22:06:13, 17.02.2023",
+        "banned": false,
+        "port": "48314",
+        "installed": true
+    },
+    "1707704374": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "10:34:59, 18.02.2023",
+        "banned": false,
+        "port": "48796",
+        "installed": true
+    },
+    "26948415": {
+        "lang": "en",
+        "activated": false,
+        "datumbis": "09:43:47, 18.02.2023",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5985661426": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "21:18:16, 21.02.2023",
+        "banned": false,
+        "port": "48623",
+        "installed": true
+    },
+    "5535367803": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1193427286": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1270141959": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5809657261": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5790094136": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1671868435": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1932548789": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "18:10:20, 18.05.2023",
+        "banned": false,
+        "port": "48807",
+        "installed": true
+    },
+    "605778538": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1560884085": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5464906559": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "22:41:03, 23.02.2023",
+        "banned": false,
+        "port": "48853",
+        "installed": true
+    },
+    "5362777065": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5738744719": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "23:46:39, 18.02.2023",
+        "banned": false,
+        "port": "48718",
+        "installed": true
+    },
+    "5154625066": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "00:35:18, 19.02.2023",
+        "banned": false,
+        "port": "48805",
+        "installed": true
+    },
+    "5702110701": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5272602203": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5864290829": {
+        "lang": "uk",
+        "activated": true,
+        "datumbis": "12:24:38, 22.02.2023",
+        "banned": false,
+        "port": "48093",
+        "installed": true
+    },
+    "1765217109": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "999430003": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5699073085": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "16:45:39, 19.02.2023",
+        "banned": false,
+        "port": "48144",
+        "installed": true
+    },
+    "5015728808": {
+        "lang": "de",
+        "activated": true,
+        "datumbis": "20:21:08, 28.01.2023",
+        "banned": false,
+        "port": "48760",
+        "installed": true,
+        "endwarned": true
+    },
+    "1657043637": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5119173651": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5491973150": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:59:03, 19.02.2023",
+        "banned": false,
+        "port": "48013",
+        "installed": true
+    },
+    "1158883738": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1330863571": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "18:58:53, 19.02.2023",
+        "banned": false,
+        "port": "48605",
+        "installed": true
+    },
+    "1286847086": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1439608310": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5298684328": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "955576811": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "851422408": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "13:05:09, 20.02.2023",
+        "banned": false,
+        "port": "48963",
+        "installed": true
+    },
+    "5166670043": {
+        "lang": "en",
+        "activated": true,
+        "datumbis": "19:28:44, 26.03.2023",
+        "banned": false,
+        "port": "48111",
+        "installed": true
+    },
+    "5499225113": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "16:00:42, 20.02.2023",
+        "banned": false,
+        "port": "48766",
+        "installed": true
+    },
+    "1299859795": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:55:51, 20.02.2023",
+        "banned": false,
+        "port": "49021",
+        "installed": true
+    },
+    "1323859885": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "20:32:02, 22.03.2023",
+        "banned": false,
+        "port": "48752",
+        "installed": true
+    },
+    "701879948": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5606816507": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "23:38:08, 20.02.2023",
+        "banned": false,
+        "port": "48432",
+        "installed": true
+    },
+    "5915836885": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "450953063": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "04:55:56, 21.02.2023",
+        "banned": false,
+        "port": "48339",
+        "installed": true
+    },
+    "5866346129": {
+        "lang": "uz",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1267211278": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "14:26:26, 13.03.2023",
+        "banned": false,
+        "port": "48602",
+        "installed": true
+    },
+    "5707522935": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5051033422": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "16:31:45, 21.02.2023",
+        "banned": false,
+        "port": "48216",
+        "installed": true
+    },
+    "5466637376": {
+        "lang": "uz",
+        "activated": true,
+        "datumbis": "21:28:16, 22.02.2023",
+        "banned": false,
+        "port": "48441",
+        "installed": true
+    },
+    "1333720935": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1999061722": {
+        "lang": "uz",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1852364178": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "20:59:36, 21.02.2023",
+        "banned": false,
+        "port": "48918",
+        "installed": true
+    },
+    "5496137984": {
+        "lang": "uz",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "833935652": {
+        "lang": "uz",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5068493568": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1381465333": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "2033442225": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1035085187": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5656310783": {
+        "lang": "uz",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5184517382": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5636907263": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "845488702": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5749476816": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1108699385": {
+        "lang": "en",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5939544576": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:40:20, 22.02.2023",
+        "banned": false,
+        "port": "48801",
+        "installed": true
+    },
+    "5303780810": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1176349807": {
+        "lang": "uk",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5299898653": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "971107860": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "09:37:00, 24.02.2023",
+        "banned": false,
+        "port": "48717",
+        "installed": true
+    },
+    "5856916978": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "10:32:00, 24.02.2023",
+        "banned": false,
+        "port": "48129",
+        "installed": true
+    },
+    "1222800063": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "01:30:18, 23.02.2023",
+        "banned": false,
+        "port": "48942",
+        "installed": true
+    },
+    "5469830800": {
+        "lang": "en",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5891755654": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "509046144": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1002748486": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1185731931": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5390215708": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1474887813": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1999514272": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1849152482": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1008037617": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "17:25:13, 26.03.2023",
+        "banned": false,
+        "port": "48250",
+        "installed": true
+    },
+    "1602685339": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "12:14:07, 06.03.2023",
+        "banned": false,
+        "port": "48425",
+        "installed": true
+    },
+    "5949649476": {
+        "lang": "uk",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1329434306": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5392204396": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "849340623": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5668649595": {
+        "lang": "en",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1007241688": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "10:19:17, 25.02.2023",
+        "banned": false,
+        "port": "48653",
+        "installed": true
+    },
+    "5179745413": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "946866709": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "21:49:11, 25.02.2023",
+        "banned": false,
+        "port": "48084",
+        "installed": true
+    },
+    "2096075207": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "03:19:18, 26.02.2023",
+        "banned": false,
+        "port": "48380",
+        "installed": true
+    },
+    "5507778162": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "18:34:54, 25.02.2023",
+        "banned": false,
+        "port": "48618",
+        "installed": true
+    },
+    "889335615": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "22:24:35, 27.03.2023",
+        "banned": false,
+        "port": "48234",
+        "installed": true
+    },
+    "5358421117": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5729567932": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "21:57:42, 25.02.2023",
+        "banned": false,
+        "port": "49168",
+        "installed": true
+    },
+    "715947419": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "837817771": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1638478217": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": true,
+        "port": 0,
+        "installed": false
+    },
+    "571845987": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "13:43:14, 26.07.2023",
+        "banned": false,
+        "port": "48529",
+        "installed": true
+    },
+    "1614667859": {
+        "lang": "en",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5974625535": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5831591882": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5784828954": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "778769773": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "5410315299": {
+        "lang": "en",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1489230893": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "15:37:34, 26.02.2023",
+        "banned": false,
+        "port": "49082",
+        "installed": true
+    },
+    "5931145859": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    },
+    "1563767199": {
+        "lang": "ru",
+        "activated": true,
+        "datumbis": "21:13:33, 28.03.2023",
+        "banned": false,
+        "port": "48516",
+        "installed": true
+    },
+    "5283934130": {
+        "lang": "ru",
+        "activated": false,
+        "datumbis": "",
+        "banned": false,
+        "port": 0,
+        "installed": false
+    }
+}
